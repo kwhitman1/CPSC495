@@ -1,0 +1,668 @@
+=== Forensic Report ===
+Generated: 2025-12-09 12:36:24
+
+Domain: f.c2r.ts.cdn.office.net
+  - Repeated queries (16 times)
+  - Multiple IPs: {'199.232.214.172', '199.232.210.172'}
+  - Short TTLs: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+Domain: beacons.gcp.gvt2.com
+  - Repeated queries (12 times)
+  - Multiple IPs: {'130.211.17.170', '35.241.13.201'}
+  - Short TTLs: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+Domain: ogads-pa.clients6.google.com
+  - Repeated queries (8 times)
+  - Short TTLs: [0, 0, 0, 0, 0, 0, 0, 0]
+
+Domain: encrypted-tbn0.gstatic.com
+  - Repeated queries (8 times)
+  - Short TTLs: [0, 0, 0, 0, 0, 0, 0, 0]
+
+Domain: play.google.com
+  - Repeated queries (8 times)
+  - Short TTLs: [0, 0, 0, 0, 0, 0, 0, 0]
+
+Domain: www.cnn.com
+  - Repeated queries (8 times)
+  - Short TTLs: [0, 0, 0, 0, 0, 0, 0, 0]
+
+Domain: tpc.googlesyndication.com
+  - Repeated queries (8 times)
+  - Short TTLs: [0, 0, 0, 0, 0, 0, 0, 0]
+
+Domain: lightning.cnn.com
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: pagead2.googlesyndication.com
+  - Repeated queries (12 times)
+  - Short TTLs: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+Domain: a.jsrdn.com
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: registry.api.cnn.io
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: cdn.optimizely.com
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: media.cnn.com
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: get.s-onetag.com
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: odb.outbrain.com
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: widgets.outbrain.com
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: js-sec.indexww.com
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: segment-data-us-east.zqtk.net
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: securepubads.g.doubleclick.net
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: cdn.adsafeprotected.com
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: ib.adnxs.com
+  - Repeated queries (8 times)
+  - Multiple IPs: {'104.254.151.68', '104.254.150.241'}
+  - Short TTLs: [0, 0, 0, 0, 0, 0, 0, 0]
+
+Domain: c.amazon-adsystem.com
+  - Repeated queries (8 times)
+  - Short TTLs: [0, 0, 0, 0, 0, 0, 0, 0]
+
+Domain: www.google.com
+  - Repeated queries (12 times)
+  - Short TTLs: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+Domain: www.googletagservices.com
+  - Repeated queries (8 times)
+  - Short TTLs: [0, 0, 0, 0, 0, 0, 0, 0]
+
+Domain: cdnjs.cloudflare.com
+  - Repeated queries (4 times)
+  - Multiple IPs: {'104.17.25.14', '104.17.24.14'}
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: fave.api.cnn.io
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: healthguides.cnn.com
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: www.i.cdn.cnn.com
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: production.dataviz.cnn.io
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: accounts.google.com
+  - Repeated queries (12 times)
+  - Short TTLs: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+Domain: fonts.googleapis.com
+  - Repeated queries (8 times)
+  - Short TTLs: [0, 0, 0, 0, 0, 0, 0, 0]
+
+Domain: cdn.jsdelivr.net
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: fonts.gstatic.com
+  - Repeated queries (8 times)
+  - Short TTLs: [0, 0, 0, 0, 0, 0, 0, 0]
+
+Domain: copilot.microsoft.com
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: content-autofill.googleapis.com
+  - Repeated queries (20 times)
+  - Multiple IPs: {'142.250.190.74', '172.217.4.202', '142.251.32.10', '142.250.191.170', '172.217.4.74'}
+  - Short TTLs: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+Domain: default.any-any.prd.api.bolt.cnn.com
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: google.com
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: lh3.googleusercontent.com
+  - Repeated queries (8 times)
+  - Short TTLs: [0, 0, 0, 0, 0, 0, 0, 0]
+
+Domain: services.brightline.tv
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: out053a3bejgh7t0phqa0csou.litix.io
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: events.brightline.tv
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: gcp.live.cnn.us.prd.media.max.com
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: gmss.use2.prd.api.discomax.com
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: gcp.amer-free.prd.media.max.com
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: busy.any-amer.prd.api.bolt.cnn.com
+  - Repeated queries (8 times)
+  - Multiple IPs: {'99.83.137.181', '75.2.94.246'}
+  - Short TTLs: [0, 0, 0, 0, 0, 0, 0, 0]
+
+Domain: bea4.v.fwmrm.net
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: ade.googlesyndication.com
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: googleads4.g.doubleclick.net
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: d.agkn.com
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: pi.ispot.tv
+  - Repeated queries (8 times)
+  - Multiple IPs: {'151.101.2.132', '151.101.66.132'}
+  - Short TTLs: [0, 0, 0, 0, 0, 0, 0, 0]
+
+Domain: tag.tapad.com
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: idsync.rlcdn.com
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: pixel.adsafeprotected.com
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: pippio.com
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: jsconfig.adsafeprotected.com
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: static.adsafeprotected.com
+  - Repeated queries (4 times)
+  - Multiple IPs: {'108.156.184.3', '108.156.184.23'}
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: dt.adsafeprotected.com
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: www.amazon.com
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: images-na.ssl-images-amazon.com
+  - Repeated queries (8 times)
+  - Short TTLs: [0, 0, 0, 0, 0, 0, 0, 0]
+
+Domain: do6e2c3moa96p.cloudfront.net
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: maps.hereapi.com
+  - Repeated queries (4 times)
+  - Multiple IPs: {'108.156.184.24', '108.156.184.15'}
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: m.media-amazon.com
+  - Repeated queries (8 times)
+  - Short TTLs: [0, 0, 0, 0, 0, 0, 0, 0]
+
+Domain: d1nruqhae353qc.cloudfront.net
+  - Repeated queries (4 times)
+  - Multiple IPs: {'108.156.171.14', '108.156.171.212'}
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: unagi.amazon.com
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: aes.us-east.ono.axp.amazon-adsystem.com
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: aax-events-cell01-cf.us-east.ono.axp.amazon-adsystem.com
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: api.stores.us-east-1.prod.paets.advertising.amazon.dev
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: s.amazon-adsystem.com
+  - Repeated queries (8 times)
+  - Short TTLs: [0, 0, 0, 0, 0, 0, 0, 0]
+
+Domain: completion.amazon.com
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: vfw.amazon-adsystem.com
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: d2h8zr0m6mus4x.cloudfront.net
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: ad.doubleclick.net
+  - Repeated queries (24 times)
+  - Short TTLs: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+Domain: ep2.adtrafficquality.google
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: s0.2mdn.net
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: www.googleadservices.com
+  - Repeated queries (48 times)
+  - Short TTLs: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+Domain: sb.scorecardresearch.com
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: ep1.adtrafficquality.google
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: fls-na.amazon.com
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: publickeyservice.msmt.gcp.privacysandboxservices.com
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: unagi-na.amazon.com
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: match.360yield.com
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: browser.events.data.microsoft.com
+  - Repeated queries (8 times)
+  - Multiple IPs: {'20.189.173.14', '104.208.16.95'}
+  - Short TTLs: [0, 0, 0, 0, 0, 0, 0, 0]
+
+Domain: rtb-csync.smartadserver.com
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: dsum-sec.casalemedia.com
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: pbs.yahoo.com
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: capi.connatix.com
+  - Repeated queries (4 times)
+  - Multiple IPs: {'104.18.41.104', '172.64.146.152'}
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: amazon.partners.tremorhub.com
+  - Repeated queries (10 times)
+  - Short TTLs: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+Domain: geo.ads.audio.thisisdax.com
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: www.imdb.com
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: usersync.samplicio.us
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: ads.samba.tv
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: pixel.rubiconproject.com
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: dpm.demdex.net
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: odr.mookie1.com
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: c1.adform.net
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: bs.serving-sys.com
+  - Repeated queries (10 times)
+  - Short TTLs: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+Domain: cookie-matching.mediarithmics.com
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: csync.loopme.me
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: gemini.google.com
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: www.gstatic.com
+  - Repeated queries (12 times)
+  - Short TTLs: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+Domain: ssum-sec.casalemedia.com
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: cm.g.doubleclick.net
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: crb.kargo.com
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: image2.pubmatic.com
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: loadus.exelator.com
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: image4.pubmatic.com
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: www.facebook.com
+  - Repeated queries (8 times)
+  - Short TTLs: [0, 0, 0, 0, 0, 0, 0, 0]
+
+Domain: lciapi.ninthdecimal.com
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: ih.adscale.de
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: sync-amazon.ads.yieldmo.com
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: us-u.openx.net
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: sync.taboola.com
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: jadserve.postrelease.com
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: aa.agkn.com
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: tags.bluekai.com
+  - Repeated queries (10 times)
+  - Short TTLs: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+Domain: public-prod-dspcookiematching.dmxleo.com
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: cms.analytics.yahoo.com
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: ups.analytics.yahoo.com
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: spl.zeotap.com
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: mwzeom.zeotap.com
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: user-sync.fwmrm.net
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: static.xx.fbcdn.net
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: sync.rfp.fout.jp
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: beacon.krxd.net
+  - Repeated queries (10 times)
+  - Short TTLs: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+Domain: x.bidswitch.net
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: facebook.com
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: match.sharethrough.com
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: ms-cookie-sync.presage.io
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: accounts.meta.com
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: eb2.3lift.com
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: uipglob.semasio.net
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: usersync.gumgum.com
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: us-east-sync.richaudience.com
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: assets.msn.com
+  - Short TTLs: [0, 0]
+
+Domain: www.youtube.com
+  - Repeated queries (12 times)
+  - Multiple IPs: {'172.217.4.46', '142.251.34.238', '172.217.1.110', '142.250.190.14'}
+  - Short TTLs: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+Domain: i.ytimg.com
+  - Repeated queries (8 times)
+  - Multiple IPs: {'142.250.190.22', '172.217.4.214'}
+  - Short TTLs: [0, 0, 0, 0, 0, 0, 0, 0]
+
+Domain: googleads.g.doubleclick.net
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: yt3.ggpht.com
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: 4afojpng981kg.h5games.usercontent.goog
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: youtube.com
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: accounts.youtube.com
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: static.doubleclick.net
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: www.googletagmanager.com
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: tunnel.googlezip.net
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: www.microsoft.com
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: rum.hlx.page
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: wcpstatic.microsoft.com
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: play.vidyard.com
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: cdn-dynmedia-1.microsoft.com
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: mem.gfx.ms
+  - Repeated queries (6 times)
+  - Short TTLs: [0, 0, 0, 0, 0, 0]
+
+Domain: js.monitor.azure.com
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: login.microsoftonline.com
+  - Repeated queries (12 times)
+  - Multiple IPs: {'40.126.29.14', '20.190.157.1', '40.126.29.10'}
+  - Short TTLs: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+Domain: outlook.com
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: outlook.live.com
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: res.public.onecdn.static.microsoft
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: www.outlook.com
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: safebrowsing.googleapis.com
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: login.live.com
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: eu-office.events.data.microsoft.com
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: catalogapi.azure.com
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: store-images.s-microsoft.com
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: admin.microsoft.com
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
+
+Domain: res.cdn.office.net
+  - Repeated queries (4 times)
+  - Short TTLs: [0, 0, 0, 0]
